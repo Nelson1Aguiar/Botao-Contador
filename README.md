@@ -8,7 +8,7 @@
 - Campo de Texto: Exibe o número atual de cliques.
 
 # Capturas de tela
-<img src="https://github.com/Nelson1Aguiar/Botao-Contador/issues/2#issue-1899854980" width="100px" heigth="100px"/>
+![WhatsApp Image 2023-09-17 at 14 04 58_resized](https://github.com/Nelson1Aguiar/Botao-Contador/assets/132019512/a16682a7-42ca-4843-85c7-78d1e7a1dde0)
 
 # Tecnologias utilizadas
 - React Native
