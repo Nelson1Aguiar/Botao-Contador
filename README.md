@@ -8,7 +8,6 @@
 - Campo de Texto: Exibe o número atual de cliques.
 
 # Capturas de tela
-![WhatsApp Image 2023-09-17 at 14 04 58](https://github.com/Nelson1Aguiar/Botao-Contador/assets/132019512/a8953dec-1e8d-4df4-aa6e-bd9778c03544)
 
 
 # Tecnologias utilizadas
